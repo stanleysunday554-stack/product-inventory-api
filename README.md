@@ -35,7 +35,7 @@ and Mongoose for managing shop products and inventory.
 
 1. Clone the repository.
 
-   git clone YOUR_GITHUB_REPOSITORY_URL
+   
 
 2. Enter the project directory.
 
